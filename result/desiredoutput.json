@@ -1,0 +1,46 @@
+{
+  "total_mev_attacks": 1,
+  "mev_attacks": [
+    {
+      "attackSlots": [
+        380963440,
+        380963441,
+        380963442
+      ],
+      "frontRun": {
+        "slot": 380963440,
+        "signature": "5hkAu4ZJ4dcuo98TXoP94utW2sswwp3Z9DMxYqe6MJ9kJWrgLykyYjWPZucGqDtcGCHhYmhQPVpQtV2cF57D9BDb",
+        "signer": "3mKJzmKW8MgbxR4M3egrRFawvnvAVSUXRWrZ4ozg4S41",
+        "from": "4usCfPtpnYP6v9KvPVoQsKVpZ2V3cFP7Ce8PdWfcpump",
+        "to": "So11111111111111111111111111111111111111112",
+        "fromAmount": 5873.873968,
+        "toAmount": 0.001619931
+      },
+      "victim": {
+        "slot": 380963441,
+        "signature": "3jLLspwpEQG5rGQfnSASWXMWT442Q2tRWeFmn6VV3N5jGmfuXZczMQwYH8yEJiBfsUsgnqdAQCQ4UU8BcsSDaeKs",
+        "signer": "266xh3BDD7Qex91n8UEJXfpLehKWy4DC7YhENjSLX7QY",
+        "from": "CniNvZDqgJaWNG2TBYfYVmC6b5sSN3fpybS8PV9Qpump",
+        "to": "So11111111111111111111111111111111111111112",
+        "fromAmount": 379615.414522,
+        "toAmount": 0.150727264
+      },
+      "backRun": {
+        "slot": 380963442,
+        "signature": "4iAWuyp8GmwaHPahX44EY4a76PZZd1yUGoTXfnvvMVy3GyuDXBkYdbsytapBapGBgFm3nr9dmjV9WPgHYw2oyj4n",
+        "signer": "3mKJzmKW8MgbxR4M3egrRFawvnvAVSUXRWrZ4ozg4S41",
+        "from": "So11111111111111111111111111111111111111112",
+        "to": "4usCfPtpnYP6v9KvPVoQsKVpZ2V3cFP7Ce8PdWfcpump",
+        "fromAmount": 0.1505157,
+        "toAmount": 543931.183046
+      },
+      "analysis": {
+        "botProfit_SOL": 538057.309078,
+        "ROI": 92.60177967883835,
+        "frontPrice": 3626002.569245233,
+        "backPrice": 3613783.6986174863,
+        "priceImpactPercent": -0.33697909459259767
+      }
+    }
+  ]
+}
