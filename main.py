@@ -14,7 +14,7 @@ async def main():
     
     latestBlock = await client.get_slot()
     startBlock = latestBlock.value - 10000
-    blockToScan = 300
+    blockToScan = 1000
     print(f"we are scaning {blockToScan} blocks so it will probably take a while")
 
     # Fetch n consecutive blocks
