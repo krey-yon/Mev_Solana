@@ -1,0 +1,41 @@
+{
+  "attackSlots": [
+    383539965,
+    383539966,
+    383539967
+  ],
+  "frontRun": {
+    "slot": 383539965,
+    "signature": "FAKE_FRONT_SIGNATURE",
+    "signer": "B4XHtegFy3xhVyj4KUkqt3b8bT6uVrK9VAHZEhFbfMwW",
+    "from": "Azk1uUsiyRMSrcbA8Rgpu5SN36m8xL6N1TZ4pnB4pump",
+    "to": "So11111111111111111111111111111111111111112",
+    "fromAmount": 83.00647475,
+    "toAmount": 1.92295e-05
+  },
+  "victim": {
+    "slot": 383539966,
+    "signature": "fQ2zESAzBmU2A2yLDLFAcMi5tBKJMiCgarPBwftmbV1tUb1qpPkj7bAX76XpRFkxU8pEwhx35Jc6uVd8iSD7zJU",
+    "signer": "3pQNmJeQygof8fk2WABo7xq5f2r9ztFao5CJLF4zM8RH",
+    "from": "Azk1uUsiyRMSrcbA8Rgpu5SN36m8xL6N1TZ4pnB4pump",
+    "to": "So11111111111111111111111111111111111111112",
+    "fromAmount": 332.025899,
+    "toAmount": 7.6918e-05
+  },
+  "backRun": {
+    "slot": 383539967,
+    "signature": "FAKE_BACK_SIGNATURE",
+    "signer": "B4XHtegFy3xhVyj4KUkqt3b8bT6uVrK9VAHZEhFbfMwW",
+    "from": "So11111111111111111111111111111111111111112",
+    "to": "Azk1uUsiyRMSrcbA8Rgpu5SN36m8xL6N1TZ4pnB4pump",
+    "fromAmount": 3.8459e-05,
+    "toAmount": 166.0129495
+  },
+  "analysis": {
+    "botProfit_SOL": 123.45,
+    "ROI": 2.71,
+    "frontPrice": 100.0,
+    "backPrice": 98.0,
+    "priceImpactPercent": -2.0
+  }
+}

@@ -1,6 +1,6 @@
 from solders.pubkey import Pubkey
 
-rpc_url = "your_rpc_url_here"
+rpc_url = "https://api.mainnet-beta.solana.com"
 program_id = [
     Pubkey.from_string("675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8"),
     Pubkey.from_string("6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P"),
